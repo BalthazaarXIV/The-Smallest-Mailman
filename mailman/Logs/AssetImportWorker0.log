@@ -15,11 +15,11 @@ D:/Main Folder/Game Dev/unity_projects/unity_final/The-Smallest-Mailman/mailman
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49569
+51135
 Successfully changed project path to: D:/Main Folder/Game Dev/unity_projects/unity_final/The-Smallest-Mailman/mailman
 D:/Main Folder/Game Dev/unity_projects/unity_final/The-Smallest-Mailman/mailman
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 167.85 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 200.83 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
 [Subsystems] Discovering subsystems at path D:/Unity/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
@@ -36,21 +36,1021 @@ Initialize mono
 Mono path[0] = 'D:/Unity/2020.2.1f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Unity/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Unity/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56512
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56392
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Unity/2020.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Unity/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.034204 seconds.
+Registered in 0.002288 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 99.66 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1244.86 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in 16.488 seconds
+- Completed reload, in  8.596 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.052194 seconds.
+Registered in 0.017821 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 505.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.719 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 1.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2949 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.7 MB.
+System memory in use after: 133.9 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 3393.
+Total: 16.800100 ms (FindLiveObjects: 0.334800 ms CreateObjectMapping: 0.153300 ms MarkObjects: 16.109600 ms  DeleteObjects: 0.200000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/TextMesh Pro/Fonts
+  artifactKey: Guid(6ab70aee4d56447429c680537fbf93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts using Guid(6ab70aee4d56447429c680537fbf93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '928c1db6c897c9953804ab4f5b669ab6') in 0.104575 seconds
+  Import took 0.208536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.478310 seconds.
+  path: Assets/TextMesh Pro/Fonts/BebasNeue-Regular.ttf
+  artifactKey: Guid(22ae4d762c8f039428b81234a7613f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/BebasNeue-Regular.ttf using Guid(22ae4d762c8f039428b81234a7613f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dfadfc3d72b7ee529d1fa874c8cf27c') in 0.835457 seconds
+  Import took 0.865604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 210.171743 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/Spritesheet/blueSheet.png
+  artifactKey: Guid(5d7b19b7cfd116743bbb05a167bb6aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/Spritesheet/blueSheet.png using Guid(5d7b19b7cfd116743bbb05a167bb6aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e02ad0fcda05e6ff5f9bfb742ece09f') in 0.207900 seconds
+  Import took 0.258172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/Spritesheet/greenSheet.png
+  artifactKey: Guid(ce4fd3cdf2e0ca24983eddfd32356825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/Spritesheet/greenSheet.png using Guid(ce4fd3cdf2e0ca24983eddfd32356825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4dedaad6fcf36fb092eac79bc00f2ea') in 0.073604 seconds
+  Import took 0.092052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/Spritesheet/greySheet.png
+  artifactKey: Guid(3f2226feadcb28c45b97cdc2f646cd48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/Spritesheet/greySheet.png using Guid(3f2226feadcb28c45b97cdc2f646cd48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8c429f22deab262bb88ad3bd8c4d755') in 0.049384 seconds
+  Import took 0.068859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/Spritesheet/redSheet.png
+  artifactKey: Guid(909d926b109824445a041adffe2811a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/Spritesheet/redSheet.png using Guid(909d926b109824445a041adffe2811a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1004bb648d8f86fb47803ef2c32b99d7') in 0.052963 seconds
+  Import took 0.081785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/Spritesheet/yellowSheet.png
+  artifactKey: Guid(bec93a973447b4448a6dfe9609c373cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/Spritesheet/yellowSheet.png using Guid(bec93a973447b4448a6dfe9609c373cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dbbccf63e513950a3926293ba71cd57') in 0.045105 seconds
+  Import took 0.066545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068322 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_boxCheckmark.png
+  artifactKey: Guid(e427cd97ac6d04d4c9aaf9b071720a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_boxCheckmark.png using Guid(e427cd97ac6d04d4c9aaf9b071720a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41b225801626a216c8a72f33ed154101') in 0.075150 seconds
+  Import took 0.088016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_button12.png
+  artifactKey: Guid(7ec6558e936137e4c977de3e31984cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_button12.png using Guid(7ec6558e936137e4c977de3e31984cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7188e9f266a9123bf7c176daaa84c2b5') in 0.090142 seconds
+  Import took 0.122678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_button08.png
+  artifactKey: Guid(71635f9562ae75343b4ea684261d13fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_button08.png using Guid(71635f9562ae75343b4ea684261d13fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd335a0530c1f5daeb2a5d42bd115011') in 0.063666 seconds
+  Import took 0.098539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_button03.png
+  artifactKey: Guid(4a0294cb8d699f24eb44d7eb9a108917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_button03.png using Guid(4a0294cb8d699f24eb44d7eb9a108917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac4bb843828d8c51faf9d74c0a6b00fc') in 0.069323 seconds
+  Import took 0.082528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/grey_boxTick.png
+  artifactKey: Guid(bd5d9e1dbd6d3504a83cb4e39a0b086d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/grey_boxTick.png using Guid(bd5d9e1dbd6d3504a83cb4e39a0b086d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e238d225e674ed1387c8083b12594b9f') in 0.050791 seconds
+  Import took 0.072635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_boxCheckmark.png
+  artifactKey: Guid(e427cd97ac6d04d4c9aaf9b071720a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_boxCheckmark.png using Guid(e427cd97ac6d04d4c9aaf9b071720a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41b225801626a216c8a72f33ed154101') in 0.009987 seconds
+  Import took 0.023276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/dropdownBottom.png
+  artifactKey: Guid(55f5473c3cd5d5346a1e9f6365eb37f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/dropdownBottom.png using Guid(55f5473c3cd5d5346a1e9f6365eb37f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '144f6cfac0609648cdbcc2b700bb12cf') in 0.042702 seconds
+  Import took 0.058598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/grey_boxCross.png
+  artifactKey: Guid(f5aff8a53685db946830dcf6cec96d3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/grey_boxCross.png using Guid(f5aff8a53685db946830dcf6cec96d3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed3f205a9b30dbaea636ec83f70487ac') in 0.055613 seconds
+  Import took 0.067859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000586 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_button01.png
+  artifactKey: Guid(eaf1960eb151a62439d038c8fa21f098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_button01.png using Guid(eaf1960eb151a62439d038c8fa21f098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18964c61b3dcb3ea64594b3864b4fca4') in 0.051059 seconds
+  Import took 0.059954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_button03.png
+  artifactKey: Guid(cee5d6beb82b1c549982e8e57c551754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_button03.png using Guid(cee5d6beb82b1c549982e8e57c551754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '851eb9ed831c10c76eaab8617c9653da') in 0.044503 seconds
+  Import took 0.066571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_sliderDown.png
+  artifactKey: Guid(d3244338ec1687947b3bba07560d8efd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_sliderDown.png using Guid(d3244338ec1687947b3bba07560d8efd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbd66513484b6727ae47566b33e3f150') in 0.049845 seconds
+  Import took 0.071108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_button00.png
+  artifactKey: Guid(9541136f4760ac54ea1e4075d266a56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_button00.png using Guid(9541136f4760ac54ea1e4075d266a56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa4466886c5819544c2d16368642d6dc') in 0.045503 seconds
+  Import took 0.064039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_button07.png
+  artifactKey: Guid(675875ba8c1d4cf4fbba27903b846ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_button07.png using Guid(675875ba8c1d4cf4fbba27903b846ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '884b9a9f67747799958f2afeb449df73') in 0.054965 seconds
+  Import took 0.076034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_button12.png
+  artifactKey: Guid(af6f18870f7f1084195766922186adb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_button12.png using Guid(af6f18870f7f1084195766922186adb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d8f647d35801c997961c9aebadbd493') in 0.067864 seconds
+  Import took 0.074439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_button09.png
+  artifactKey: Guid(4607a0d508edd6941a5ffde111665036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_button09.png using Guid(4607a0d508edd6941a5ffde111665036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c258eccca1f3994d7085f6caa656effe') in 0.045500 seconds
+  Import took 0.073785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_button02.png
+  artifactKey: Guid(7228f575a9502954abb6830b248dbb6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_button02.png using Guid(7228f575a9502954abb6830b248dbb6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b58d37f6313de2bdfda8576f6e20181') in 0.081638 seconds
+  Import took 0.106933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_button05.png
+  artifactKey: Guid(4f80ba3efa2ebe84380724a2884392a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_button05.png using Guid(4f80ba3efa2ebe84380724a2884392a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e8a11e03f6d078022bdfee6c995d3df') in 0.045029 seconds
+  Import took 0.051636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_sliderLeft.png
+  artifactKey: Guid(82599375a18c03c469c0185dff8dc0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_sliderLeft.png using Guid(82599375a18c03c469c0185dff8dc0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1956061837e515d785d69eb979c64c6f') in 0.047900 seconds
+  Import took 0.057021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_button01.png
+  artifactKey: Guid(68f1566cfad716342ad47e09b9a988a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_button01.png using Guid(68f1566cfad716342ad47e09b9a988a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39f26d4f657bb7b17144425a0aca0211') in 0.063256 seconds
+  Import took 0.083953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_boxCheckmark.png
+  artifactKey: Guid(8e7b430947531b74cbff1672fdcddffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_boxCheckmark.png using Guid(8e7b430947531b74cbff1672fdcddffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0a4fb39232b9cd8b8c8ccd59804e54f') in 0.064160 seconds
+  Import took 0.088137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_button06.png
+  artifactKey: Guid(588ab2667f72dfc48aecc822c1f2ba49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_button06.png using Guid(588ab2667f72dfc48aecc822c1f2ba49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29d8a8570177a3392381c1f712dafab1') in 0.057623 seconds
+  Import took 0.077872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_tick.png
+  artifactKey: Guid(cfb864cda1e019747a2605c34aab60ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_tick.png using Guid(cfb864cda1e019747a2605c34aab60ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7e6521397ff00056fc81e3391df68a4') in 0.051689 seconds
+  Import took 0.065602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_sliderUp.png
+  artifactKey: Guid(3758eda170da78649a2564dcb5e702ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_sliderUp.png using Guid(3758eda170da78649a2564dcb5e702ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30ba90e999b65a87a6522101b19cc48e') in 0.049480 seconds
+  Import took 0.071869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_sliderDown.png
+  artifactKey: Guid(0bfde83cb54a80249a40e2550dbe78b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_sliderDown.png using Guid(0bfde83cb54a80249a40e2550dbe78b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ad88f027af4c305ec834a936551926c') in 0.052802 seconds
+  Import took 0.070366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/grey_boxCheckmark.png
+  artifactKey: Guid(770bb2f5f722f5f4fa13ef53feb2f6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/grey_boxCheckmark.png using Guid(770bb2f5f722f5f4fa13ef53feb2f6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1d8788a3e2f77bf05210c5716f34fcc') in 0.041196 seconds
+  Import took 0.058987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_button06.png
+  artifactKey: Guid(dc0346bbd2f764d468f6138410631ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_button06.png using Guid(dc0346bbd2f764d468f6138410631ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21902f779b22f8bb6b40660d2b6ef558') in 0.045511 seconds
+  Import took 0.062359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_circle.png
+  artifactKey: Guid(9b82228dc38c11a4ba86690e9b2872d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_circle.png using Guid(9b82228dc38c11a4ba86690e9b2872d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '019cc09eb798bed05cfa0adfa12d59b4') in 0.049711 seconds
+  Import took 0.061595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_button09.png
+  artifactKey: Guid(d0ac03f4755646b4b9245db0b6597c6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_button09.png using Guid(d0ac03f4755646b4b9245db0b6597c6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c48ed6a58a292b37c2baf880884ea98e') in 0.046707 seconds
+  Import took 0.068703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_button03.png
+  artifactKey: Guid(d909d71eb6dd97943b358e495db5c489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_button03.png using Guid(d909d71eb6dd97943b358e495db5c489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea87be7c00085a8234569b3902afe7d4') in 0.042114 seconds
+  Import took 0.061019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_sliderRight.png
+  artifactKey: Guid(882e610528a787a4b8716b1480b5d9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_sliderRight.png using Guid(882e610528a787a4b8716b1480b5d9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4532eef96c3f8a9cb2c058e3de60a004') in 0.060959 seconds
+  Import took 0.080327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_boxCross.png
+  artifactKey: Guid(383e85a404f875c4788522f29f79850a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_boxCross.png using Guid(383e85a404f875c4788522f29f79850a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3526282656ff3a775fc935498df5e60a') in 0.059653 seconds
+  Import took 0.083754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_checkmark.png
+  artifactKey: Guid(d36036e5ae07ece4895a8d76a7355e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_checkmark.png using Guid(d36036e5ae07ece4895a8d76a7355e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '549f7d0ca42f3a4d77b6ecbd3201b2f6') in 0.054415 seconds
+  Import took 0.073610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_button05.png
+  artifactKey: Guid(55c3cfba509dc4d4290d56479c64b472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_button05.png using Guid(55c3cfba509dc4d4290d56479c64b472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a4e89d275c2576f9169b3049c9cddf6') in 0.042717 seconds
+  Import took 0.052088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_button10.png
+  artifactKey: Guid(b20b11cd15360aa4fb44f5d8258f60fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_button10.png using Guid(b20b11cd15360aa4fb44f5d8258f60fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8c9c6c76036bf584e52ab75512d9449') in 0.052872 seconds
+  Import took 0.069438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_button01.png
+  artifactKey: Guid(cc4034dbc6651b442bdce47af517221b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_button01.png using Guid(cc4034dbc6651b442bdce47af517221b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '214cbf92436c83604dfdb8c27e587410') in 0.053164 seconds
+  Import took 0.059341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_boxTick.png
+  artifactKey: Guid(5a4f8231bdfe48641bff579242e42e36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_boxTick.png using Guid(5a4f8231bdfe48641bff579242e42e36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7004fb0f34dd6b95799bac511219876') in 0.055288 seconds
+  Import took 0.084595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_button05.png
+  artifactKey: Guid(d7409881030993747994b4b6ce3987cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_button05.png using Guid(d7409881030993747994b4b6ce3987cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb26c0ffff720aed4cb86934382cb5c1') in 0.057711 seconds
+  Import took 0.076869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_button04.png
+  artifactKey: Guid(43e6886c6ca3ed7459a417c76a4c4e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_button04.png using Guid(43e6886c6ca3ed7459a417c76a4c4e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22bf8c03fb003847dfc691a3677f351a') in 0.056017 seconds
+  Import took 0.079041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_button08.png
+  artifactKey: Guid(cebe368d60199bd4282a029f9fbec5e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_button08.png using Guid(cebe368d60199bd4282a029f9fbec5e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19511d13da1a4da48beb076d32542989') in 0.042398 seconds
+  Import took 0.048715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_button08.png
+  artifactKey: Guid(7c12aec09e0204546aec26dbac10d8e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_button08.png using Guid(7c12aec09e0204546aec26dbac10d8e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5243ebf507e871577ed6e40961dc3497') in 0.037643 seconds
+  Import took 0.058633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/dropdownMid.png
+  artifactKey: Guid(7882b6eedb3de8447ac24259557b0c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/dropdownMid.png using Guid(7882b6eedb3de8447ac24259557b0c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '041ca7990a68845b30a0545df69b75e6') in 0.047075 seconds
+  Import took 0.074590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_tick.png
+  artifactKey: Guid(1cbe0476c45db8d4986f7877905179b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_tick.png using Guid(1cbe0476c45db8d4986f7877905179b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6248a3465bccd5d3b3ea1765afda4d15') in 0.050426 seconds
+  Import took 0.074582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_button04.png
+  artifactKey: Guid(260689f6d3b65c84e8ffbb70e923a307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_button04.png using Guid(260689f6d3b65c84e8ffbb70e923a307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88b261652199dbfe5d9f1740df20b0ac') in 0.051363 seconds
+  Import took 0.075370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_button11.png
+  artifactKey: Guid(494383b6e164859428ee2ffa07ba732a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_button11.png using Guid(494383b6e164859428ee2ffa07ba732a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '816d4a1c593b6fec059efbd0ed6853bd') in 0.051345 seconds
+  Import took 0.069135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_cross.png
+  artifactKey: Guid(9955ceac33bdeb240a8d17fbfa20d604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_cross.png using Guid(9955ceac33bdeb240a8d17fbfa20d604) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ded259bbd523c02db7b3853f9d512b6a') in 0.051536 seconds
+  Import took 0.078431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_button04.png
+  artifactKey: Guid(d438ad4cfc3c29a4384f9ba036aebf95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_button04.png using Guid(d438ad4cfc3c29a4384f9ba036aebf95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b687da14fb07d12bfd457b73c1b932a5') in 0.050599 seconds
+  Import took 0.061926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_panel.png
+  artifactKey: Guid(ed761f056d907dd43a584ca58968b0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_panel.png using Guid(ed761f056d907dd43a584ca58968b0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d5424fae5a0d1b7b2254c54b2233824') in 0.052322 seconds
+  Import took 0.067740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_boxTick.png
+  artifactKey: Guid(566a249855ec83243b0787275a6f23bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_boxTick.png using Guid(566a249855ec83243b0787275a6f23bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad064af6c3572d0c34ef74851cedf8fe') in 0.047079 seconds
+  Import took 0.069181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_button00.png
+  artifactKey: Guid(73f21899de8969847a8c1ac2b98b4d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_button00.png using Guid(73f21899de8969847a8c1ac2b98b4d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3ab5d76c969760d2216c1855613df6d') in 0.050523 seconds
+  Import took 0.056417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_cross.png
+  artifactKey: Guid(3360c88efd1821c4a9c19be8234044c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_cross.png using Guid(3360c88efd1821c4a9c19be8234044c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4d384258ddb532d16b78596a55bbfd7') in 0.051604 seconds
+  Import took 0.070018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/grey_arrowDownGrey.png
+  artifactKey: Guid(a9ff5feeaa5758e46a34005cf8a9476a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/grey_arrowDownGrey.png using Guid(a9ff5feeaa5758e46a34005cf8a9476a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c05ba428c429bbded98c15eddac5a299') in 0.055985 seconds
+  Import took 0.062927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_button07.png
+  artifactKey: Guid(6c04b480c33e75045b0cb34869465a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_button07.png using Guid(6c04b480c33e75045b0cb34869465a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '184d6bb99308c2931408d615e8c5db4a') in 0.055711 seconds
+  Import took 0.062116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_button13.png
+  artifactKey: Guid(2f9fd2dfe0215c945aed4afa1decb224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_button13.png using Guid(2f9fd2dfe0215c945aed4afa1decb224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4af4bfba35ae9685bdab7a3a572d909d') in 0.045733 seconds
+  Import took 0.061314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_button13.png
+  artifactKey: Guid(869c184e917b5774dad94a19edca66d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_button13.png using Guid(869c184e917b5774dad94a19edca66d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cb88b46477b3a7eb7004976053967a3') in 0.048726 seconds
+  Import took 0.076063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/grey_arrowDownWhite.png
+  artifactKey: Guid(11b20efc7fee03640bc0584147d389e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/grey_arrowDownWhite.png using Guid(11b20efc7fee03640bc0584147d389e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '741572f892d4f1767164f2cf70af2c63') in 0.047265 seconds
+  Import took 0.067193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_button06.png
+  artifactKey: Guid(b1fca81ee68dcc04da65f42426ceca25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_button06.png using Guid(b1fca81ee68dcc04da65f42426ceca25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4faaba7c7c399d6028ec35acf9abb9d3') in 0.040786 seconds
+  Import took 0.047204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/grey_arrowUpGrey.png
+  artifactKey: Guid(ca59ffd0df2c90d4db4fd00cf13d3856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/grey_arrowUpGrey.png using Guid(ca59ffd0df2c90d4db4fd00cf13d3856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2e364f1a70e038dcc73249873324051') in 0.061226 seconds
+  Import took 0.077748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_button07.png
+  artifactKey: Guid(20b4dc0c98311214ba7bcbd966e91bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_button07.png using Guid(20b4dc0c98311214ba7bcbd966e91bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbdc6e157a250111d5c258a51ffb6bf6') in 0.032565 seconds
+  Import took 0.070323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_sliderLeft.png
+  artifactKey: Guid(18883bc0b49dde3469b5dea6108b8a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_sliderLeft.png using Guid(18883bc0b49dde3469b5dea6108b8a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c527a5967040998f00044e974135d38') in 0.057424 seconds
+  Import took 0.071883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_sliderUp.png
+  artifactKey: Guid(8c26c21cdb0bcc448b183f097652efce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_sliderUp.png using Guid(8c26c21cdb0bcc448b183f097652efce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d8d718a124428e6eabfc6121a2a3a9a') in 0.050662 seconds
+  Import took 0.063370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/grey_arrowUpWhite.png
+  artifactKey: Guid(9e489eda7e77f114394fb89a3d713a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/grey_arrowUpWhite.png using Guid(9e489eda7e77f114394fb89a3d713a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '326542ddecd8a4a661bb2f4d5d4f6524') in 0.056451 seconds
+  Import took 0.073666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_boxCross.png
+  artifactKey: Guid(eb5da7ab4863d994da6cca553470977b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_boxCross.png using Guid(eb5da7ab4863d994da6cca553470977b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a665a74ccb029c4d2c989bdc88fa2081') in 0.038209 seconds
+  Import took 0.062033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_button10.png
+  artifactKey: Guid(c7cf8c4a340861a408ada60d85d89ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_button10.png using Guid(c7cf8c4a340861a408ada60d85d89ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3deee2c86ea031651bfb46ee4119fd2') in 0.044774 seconds
+  Import took 0.066826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_button02.png
+  artifactKey: Guid(43621cc987c577f48b6ac05b61b333c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_button02.png using Guid(43621cc987c577f48b6ac05b61b333c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a4ec61e612f65388f0867bd8da8c462') in 0.046557 seconds
+  Import took 0.053774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_checkmark.png
+  artifactKey: Guid(1545783104ba55c428e4b5c4fe1236f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_checkmark.png using Guid(1545783104ba55c428e4b5c4fe1236f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64b403b334ad03fe9af2592c343268f0') in 0.048206 seconds
+  Import took 0.062741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/grey_box.png
+  artifactKey: Guid(be8abbd96f49918449c6e556d2741311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/grey_box.png using Guid(be8abbd96f49918449c6e556d2741311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '592bded69f4ecd53366d8772c67c99d6') in 0.057238 seconds
+  Import took 0.075526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_circle.png
+  artifactKey: Guid(b2f733d83f7cb7948a436b2043e6fc2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_circle.png using Guid(b2f733d83f7cb7948a436b2043e6fc2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5e2b100e9e7443e1918ccd98453ac20') in 0.051645 seconds
+  Import took 0.059024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_button02.png
+  artifactKey: Guid(f25e4cc400b42e84fa43f29500acd1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_button02.png using Guid(f25e4cc400b42e84fa43f29500acd1c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47b96c3f35cb80884751cf54ad7ed46c') in 0.033847 seconds
+  Import took 0.049630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_sliderRight.png
+  artifactKey: Guid(4abffe1a4b2c4854385f70150aef273d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_sliderRight.png using Guid(4abffe1a4b2c4854385f70150aef273d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1a702a7c6ac1accbecb286e62b64aa6') in 0.052307 seconds
+  Import took 0.069404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/green_panel.png
+  artifactKey: Guid(7f603e38c75544f46bd843b1dbf116c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/green_panel.png using Guid(7f603e38c75544f46bd843b1dbf116c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fdeebc231746f286c795eac6256877e') in 0.045379 seconds
+  Import took 0.051639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/dropdownTop.png
+  artifactKey: Guid(8aeab0de81090ef40b258769c36a9702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/dropdownTop.png using Guid(8aeab0de81090ef40b258769c36a9702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28c264bf64317ab3501d1ff06ddd0152') in 0.045872 seconds
+  Import took 0.051790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_button11.png
+  artifactKey: Guid(389359106925f6f40a6a27ce409d5255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_button11.png using Guid(389359106925f6f40a6a27ce409d5255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e735ea1c111a76d49558eb9c24faff39') in 0.036520 seconds
+  Import took 0.058622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.035304 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_button09.png
+  artifactKey: Guid(354b3f1fd9014e840afa8ca93343ac52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_button09.png using Guid(354b3f1fd9014e840afa8ca93343ac52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '515e8707c94ab600200f2ec2fd0344c3') in 0.043419 seconds
+  Import took 0.068725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_button11.png
+  artifactKey: Guid(529254e12fee74148a0c9fbe80dfc136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_button11.png using Guid(529254e12fee74148a0c9fbe80dfc136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '344318b42771ed83a0cae11d8f6b1b08') in 0.048191 seconds
+  Import took 0.077514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_button13.png
+  artifactKey: Guid(702066267ec06324ca2f6eb2988ef307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_button13.png using Guid(702066267ec06324ca2f6eb2988ef307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af020b0daee63aff1582f9397971a796') in 0.054749 seconds
+  Import took 0.072386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_button10.png
+  artifactKey: Guid(079d64937c593734abeee6eff753bc11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_button10.png using Guid(079d64937c593734abeee6eff753bc11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cec996c92c585f54a96ac1cd2e6262f') in 0.049449 seconds
+  Import took 0.084406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_button12.png
+  artifactKey: Guid(0eada576e9434e34a880bc0c049d8eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_button12.png using Guid(0eada576e9434e34a880bc0c049d8eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b9818c4bf805a5adfbbb7ec683eb8f') in 0.051857 seconds
+  Import took 0.058132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_button09.png
+  artifactKey: Guid(354b3f1fd9014e840afa8ca93343ac52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_button09.png using Guid(354b3f1fd9014e840afa8ca93343ac52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '515e8707c94ab600200f2ec2fd0344c3') in 0.009085 seconds
+  Import took 0.016973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_button12.png
+  artifactKey: Guid(0eada576e9434e34a880bc0c049d8eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_button12.png using Guid(0eada576e9434e34a880bc0c049d8eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b9818c4bf805a5adfbbb7ec683eb8f') in 0.009971 seconds
+  Import took 0.018096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.405683 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_checkmark.png
+  artifactKey: Guid(f34e57857f73af8429ac619b6c4ab313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_checkmark.png using Guid(f34e57857f73af8429ac619b6c4ab313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f44454f54310d22fa9977b08614e05a8') in 0.063667 seconds
+  Import took 0.070546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_tick.png
+  artifactKey: Guid(db5b198ca8569164ebed4249fd322c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_tick.png using Guid(db5b198ca8569164ebed4249fd322c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ce8d3b88457c2f4ff5f7c92b12aec82') in 0.049370 seconds
+  Import took 0.067935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_circle.png
+  artifactKey: Guid(25675ab984ab9264e8986eb7f26ef87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_circle.png using Guid(25675ab984ab9264e8986eb7f26ef87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c57e4f9a8bc7db8e18b885b22a91b2a6') in 0.057121 seconds
+  Import took 0.080620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_circle.png
+  artifactKey: Guid(12b04a531817b0a4d9c75c0c08049ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_circle.png using Guid(12b04a531817b0a4d9c75c0c08049ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad09c14d6d402cf7b3e57ee130a23575') in 0.044801 seconds
+  Import took 0.050777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_panel.png
+  artifactKey: Guid(c448ae25c50192e42a2577db68ba9b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_panel.png using Guid(c448ae25c50192e42a2577db68ba9b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce6c4c50818e05f596e9c175c96204d6') in 0.053718 seconds
+  Import took 0.073238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button13.png
+  artifactKey: Guid(faaa5d084a61d6146a08ab74cddb0632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button13.png using Guid(faaa5d084a61d6146a08ab74cddb0632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '325cca176ec2081e64c928121999eaab') in 0.055863 seconds
+  Import took 0.062405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button02.png
+  artifactKey: Guid(73128ccc1617a7a4e8c580b964fea581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button02.png using Guid(73128ccc1617a7a4e8c580b964fea581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af18c99ab396e03dd73216c51a0fff96') in 0.038731 seconds
+  Import took 0.045288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button05.png
+  artifactKey: Guid(61bc8c94718b9144f849c9ff31190eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button05.png using Guid(61bc8c94718b9144f849c9ff31190eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d3733a3cd1dd8fb5026050f1340ee0c') in 0.045155 seconds
+  Import took 0.069549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button07.png
+  artifactKey: Guid(97b9b75fbfd4e7341b5b9b288aaea552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button07.png using Guid(97b9b75fbfd4e7341b5b9b288aaea552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d54086dadb2be9de7734adeb3bb0279') in 0.043319 seconds
+  Import took 0.063081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_sliderDown.png
+  artifactKey: Guid(6164f5ffb90b5f74b8a9417f311449d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_sliderDown.png using Guid(6164f5ffb90b5f74b8a9417f311449d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c75d8c8fd06244159d378b9c2c06362c') in 0.038733 seconds
+  Import took 0.050120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_sliderLeft.png
+  artifactKey: Guid(0cfd4ba9dc2a00e4aa19ff4d7453be00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_sliderLeft.png using Guid(0cfd4ba9dc2a00e4aa19ff4d7453be00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a433b8e4cac07699a6244808a5c964c7') in 0.053738 seconds
+  Import took 0.076641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_sliderDown.png
+  artifactKey: Guid(030bbd41ba563884b98d1c4959066b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_sliderDown.png using Guid(030bbd41ba563884b98d1c4959066b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93eaf6617f487f01888c7a22e1163c5c') in 0.052239 seconds
+  Import took 0.068474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button01.png
+  artifactKey: Guid(9312448d94b957b498ec2a6a40cde03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button01.png using Guid(9312448d94b957b498ec2a6a40cde03e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae418f4587924a89c3cd8daf253a50e5') in 0.052287 seconds
+  Import took 0.064779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_cross.png
+  artifactKey: Guid(cf9f30b49dfa8f9448ced75e54c3c1e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_cross.png using Guid(cf9f30b49dfa8f9448ced75e54c3c1e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '321ae1c3a3456fd7205bf10396ac156f') in 0.050979 seconds
+  Import took 0.065871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_boxCheckmark.png
+  artifactKey: Guid(7931141538127844a9c6ee78124bdff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_boxCheckmark.png using Guid(7931141538127844a9c6ee78124bdff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b862248090fc31b7dcd53091f72d1c6') in 0.042210 seconds
+  Import took 0.048431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button09.png
+  artifactKey: Guid(f8aed28062e77914da6cd7c35f7e0bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button09.png using Guid(f8aed28062e77914da6cd7c35f7e0bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b5deb2ec8864cf5204e8d65896b9006') in 0.054452 seconds
+  Import took 0.078050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_sliderUp.png
+  artifactKey: Guid(58146b84809318f428252b3b51a8f3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_sliderUp.png using Guid(58146b84809318f428252b3b51a8f3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd8318bbf6b024617268cb838b35b0ff') in 0.036324 seconds
+  Import took 0.043129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button08.png
+  artifactKey: Guid(d360d34f43e4fcd42927e23c8ae49ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button08.png using Guid(d360d34f43e4fcd42927e23c8ae49ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4393b7a3e9de5c6f13e5fffeb484f4b0') in 0.052041 seconds
+  Import took 0.077055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_boxCross.png
+  artifactKey: Guid(a5bdc0da1dae8bb459202a87d244a42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_boxCross.png using Guid(a5bdc0da1dae8bb459202a87d244a42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47248f72db5d1448ecb5995d350f0851') in 0.058911 seconds
+  Import took 0.076315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_cross.png
+  artifactKey: Guid(fe2b16952a6fb1d438986c7f9cc21cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_cross.png using Guid(fe2b16952a6fb1d438986c7f9cc21cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c1805d02351d1471549774ecc2ca1b3') in 0.054533 seconds
+  Import took 0.066941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_panel.png
+  artifactKey: Guid(74197dd62f2371549a1198fa1155ec3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_panel.png using Guid(74197dd62f2371549a1198fa1155ec3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c3eb8905ead64a3ea22895fb52bbe16') in 0.083602 seconds
+  Import took 0.090167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button04.png
+  artifactKey: Guid(4251cc75effa54e419922f00783407db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button04.png using Guid(4251cc75effa54e419922f00783407db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74dfd45dc715ed45aa3785b3c10ca682') in 0.061246 seconds
+  Import took 0.087933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_tick.png
+  artifactKey: Guid(5ee3636e927dd874b933de1bc1e5cc8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_tick.png using Guid(5ee3636e927dd874b933de1bc1e5cc8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1839842e2c1ae0a63713e55f9c834442') in 0.063617 seconds
+  Import took 0.070493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button11.png
+  artifactKey: Guid(0b2259914710a0842bc06005890e03fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button11.png using Guid(0b2259914710a0842bc06005890e03fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9593650b4c33d1cbda4a641a50e962bf') in 0.044070 seconds
+  Import took 0.058793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_sliderRight.png
+  artifactKey: Guid(2f14ac3f29121de4493b42e84afa7ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_sliderRight.png using Guid(2f14ac3f29121de4493b42e84afa7ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c97524434811d62fcfa599626971240') in 0.048750 seconds
+  Import took 0.066577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button10.png
+  artifactKey: Guid(757f86c99d5b996418f599f273e87d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button10.png using Guid(757f86c99d5b996418f599f273e87d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '271055207b1327e1df213259f59e4d37') in 0.045411 seconds
+  Import took 0.061232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button00.png
+  artifactKey: Guid(0cf141cedc6f3db4dbea06e617ab2c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button00.png using Guid(0cf141cedc6f3db4dbea06e617ab2c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0807d70a3e3e34365e0746ddc1d5d992') in 0.047932 seconds
+  Import took 0.062977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_checkmark.png
+  artifactKey: Guid(a894b529e84a58f489d24c6ebe4527a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_checkmark.png using Guid(a894b529e84a58f489d24c6ebe4527a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e690db297fc74d5741e5639c0c4c779c') in 0.044968 seconds
+  Import took 0.062900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_sliderLeft.png
+  artifactKey: Guid(05f3bd63e124d6f469fe8370266b98e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_sliderLeft.png using Guid(05f3bd63e124d6f469fe8370266b98e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '441f6478eebb55db45ceffb2a3f51d94') in 0.040855 seconds
+  Import took 0.048628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button03.png
+  artifactKey: Guid(596e1d5912ede9b459e681078240aa1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button03.png using Guid(596e1d5912ede9b459e681078240aa1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9244e2e1714d82d76946707556a8bc5') in 0.056080 seconds
+  Import took 0.072891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button12.png
+  artifactKey: Guid(a3606f1fc9720a949bd0505440114028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button12.png using Guid(a3606f1fc9720a949bd0505440114028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06b6ab574491f204f9edec5fafc2bab9') in 0.053096 seconds
+  Import took 0.063521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_boxTick.png
+  artifactKey: Guid(6b46eacac7e497b47bc3fd48f4234750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_boxTick.png using Guid(6b46eacac7e497b47bc3fd48f4234750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffbc50a5dd77250fcd415b8dde71c0ce') in 0.045791 seconds
+  Import took 0.062906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_sliderUp.png
+  artifactKey: Guid(113b3c2d940cd9c4082988a8c39fb0bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_sliderUp.png using Guid(113b3c2d940cd9c4082988a8c39fb0bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb5625e723173df8ea9440ae3c4a2874') in 0.064866 seconds
+  Import took 0.081698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button06.png
+  artifactKey: Guid(26c96b35e486ff846bfb3ecef2852c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/yellow_button06.png using Guid(26c96b35e486ff846bfb3ecef2852c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dcc17b33d6dc576a5aee1c874bdb118') in 0.042750 seconds
+  Import took 0.048935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/red_sliderRight.png
+  artifactKey: Guid(9e01b0ab09356de42b51d350fed5581f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/red_sliderRight.png using Guid(9e01b0ab09356de42b51d350fed5581f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d50c2f2b593fc2a8d25a555dbd70bbd') in 0.062924 seconds
+  Import took 0.068923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.887557 seconds.
+  path: Assets/Art/Kenney.nl/UI Pack/PNG/blue_panel.png
+  artifactKey: Guid(ed761f056d907dd43a584ca58968b0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Kenney.nl/UI Pack/PNG/blue_panel.png using Guid(ed761f056d907dd43a584ca58968b0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0089f64f645ca861618bb5c9fb76327') in 0.010522 seconds
+  Import took 0.043143 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

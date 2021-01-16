@@ -21,6 +21,9 @@
             </e>
             <e p="Particles Pack" t="Include">
               <e p="License.txt" t="Include" />
+              <e p="Particle samples" t="Include">
+                <e p="License.txt" t="Include" />
+              </e>
             </e>
             <e p="Space Shooter Redux" t="Include">
               <e p="Spritesheet" t="Include">
@@ -33,6 +36,16 @@
                 <e p="sheet.xml" t="Include" />
               </e>
             </e>
+            <e p="UI Pack" t="Include">
+              <e p="License.txt" t="Include" />
+              <e p="Spritesheet" t="Include">
+                <e p="blueSheet.xml" t="Include" />
+                <e p="greenSheet.xml" t="Include" />
+                <e p="greySheet.xml" t="Include" />
+                <e p="redSheet.xml" t="Include" />
+                <e p="yellowSheet.xml" t="Include" />
+              </e>
+            </e>
           </e>
           <e p="Topdown Planes" t="Include">
             <e p="Read ME.txt" t="Include" />
@@ -40,8 +53,40 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="CameraFollowPlayer.cs" t="Include" />
+          <e p="OnPlanetCollision.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
           <e p="TargetIndicator.cs" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
         </e>
       </e>
       <e p="mailman.sln" t="IncludeFlat" />
