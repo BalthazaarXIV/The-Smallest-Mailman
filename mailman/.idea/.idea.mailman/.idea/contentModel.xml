@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Uri\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Uri\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_mailman.214088371.00" t="ExcludeRecursive" />
+    <e p="D:\Main Folder\Game Dev\unity_projects\unity_final\The-Smallest-Mailman\mailman" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Art" t="Include">
+          <e p="Kenney.nl" t="Include">
+            <e p="BG Elements Pack" t="Include">
+              <e p="Spritesheet" t="Include">
+                <e p="bgElements_spritesheet.xml" t="Include" />
+              </e>
+            </e>
+            <e p="Fish Pack" t="Include">
+              <e p="Spritesheet" t="Include">
+                <e p="fishSpritesheet.xml" t="Include" />
+                <e p="fishSpritesheet@2.xml" t="Include" />
+              </e>
+            </e>
+            <e p="Particles Pack" t="Include">
+              <e p="License.txt" t="Include" />
+            </e>
+            <e p="Space Shooter Redux" t="Include">
+              <e p="Spritesheet" t="Include">
+                <e p="sheet.xml" t="Include" />
+              </e>
+            </e>
+            <e p="Tappy Plane" t="Include">
+              <e p="Spritesheet" t="Include">
+                <e p="planes.xml" t="Include" />
+                <e p="sheet.xml" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Topdown Planes" t="Include">
+            <e p="Read ME.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CameraFollowPlayer.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+          <e p="TargetIndicator.cs" t="Include" />
+        </e>
+      </e>
+      <e p="mailman.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
