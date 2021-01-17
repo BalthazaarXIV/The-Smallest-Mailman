@@ -53,9 +53,11 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="CameraFollowPlayer.cs" t="Include" />
+          <e p="MainMenuScript.cs" t="Include" />
           <e p="OnPlanetCollision.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
           <e p="TargetIndicator.cs" t="Include" />
+          <e p="UIManagerScript.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Fonts" t="Include">

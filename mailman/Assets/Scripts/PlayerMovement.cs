@@ -36,7 +36,7 @@ public class PlayerMovement : MonoBehaviour
         
         // Move the player in the direction of the mouse, want to make that the distance from the mouse will affect the speed.
 
-        if (Camera.main is { })
+        if (Camera.main is { } && !UIManagerScript.GameIsPaused)
         {
             Vector3 targetPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             targetPos.z = 0;
