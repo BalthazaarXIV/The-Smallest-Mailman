@@ -53,6 +53,7 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="CameraFollowPlayer.cs" t="Include" />
+          <e p="harmPlayer.cs" t="Include" />
           <e p="MainMenuScript.cs" t="Include" />
           <e p="OnPlanetCollision.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />

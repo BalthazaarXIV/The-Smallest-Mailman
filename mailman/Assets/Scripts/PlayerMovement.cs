@@ -1,13 +1,20 @@
+using System;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    
-    public float speed;
-    public float rotationOffset;
+    private Rigidbody2D _rb2D;
+    public float speed, rotationOffset, health, airTime;
+
+    private void Start()
+    {
+        _rb2D = GetComponent<Rigidbody2D>();
+        health = 100f;
+        airTime = 200f;
+    }
+
     void Update()
     {
-        
         // Player follow the mouse while not moving
         
         
